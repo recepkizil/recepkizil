@@ -7,7 +7,7 @@ QA Tester
 I made a career change and decided to become a tester. I am currently learning SQL, Python, Java, and API testing.
 
 * 🌍  I'm based in Istanbul. Turkey
-* ✉️  You can contact me at [recepkizil7834@gmail.com](mailto:recepkizil7834@gmail.com)
+* 👀 I’m interested in Software Testing
 * 🧠  I'm learning SQL, Python, Java, API Testing
 
 ### Skills
