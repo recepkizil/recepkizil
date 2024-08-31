@@ -60,3 +60,5 @@ I made a career change and decided to become a tester. I am currently learning S
 ###
 
 ###
+
+![Profile views counter](https://komarev.com/ghpvc/?username=recepkizil&&style=flat-square)
