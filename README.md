@@ -2,13 +2,7 @@ Hi 👋 My name is Recep Kızıl
 ===================================================================================================================================
 
 QA Tester
----------
-
-I made a career change and decided to become a tester. I am currently learning SQL, Python, Java, and API testing.
-
-* 🌍  I'm based in Istanbul. Turkey
-* 👀 I’m interested in Software Testing
-* 🧠  I'm learning SQL, Python, Java, API Testing
+  
 
 ### Skills
 
